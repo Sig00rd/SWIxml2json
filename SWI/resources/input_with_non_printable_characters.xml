@@ -1,0 +1,74 @@
+<object>
+    <obj_name>hero_profile 1</obj_name>
+    <field>
+        <name>favori������te_fruit</name>
+        <typ��e>string</type>
+        <val������ue>Truskawa�<��/value>
+    </field>
+    <field>
+        <name>hero_name</name>
+        <type>string</type>
+        <value>batman</value>
+    </field>
+    <field>
+        <name>age</name>
+        <type>int</type>
+        <value>32</value>
+    </field>
+</object>
+
+<object>
+    <obj_name>hero_profile Z</obj_name>
+    <field>
+        <name>favorit�e_fruit</name>
+        <type>string</type>
+        <value>Koko�s</value>
+    </field>
+    <field>
+        <name>he�ro_name</name>
+        <type>string</type>
+        <value>Tomy Lee Jonse w sciganym</value>
+    </field>
+    <field>
+        <name>age</name>
+        <type>int</type>
+        <value>47</value>
+    </field>
+</object>
+
+
+<object>
+    <obj_name>kolorowe kredki 1</obj_name>
+    <field>
+        <na�me>kolor</name>
+        <type>string</type>
+        <value>fuksja</value>
+    </field>
+</object>
+
+<object>
+    <obj_name></obj_name>
+</object>
+
+<object>
+    <obj_name>kolorowe kredki B</obj_name>
+    <field>
+        <name>kolor</name>
+        <type>string</type>
+    </field>
+    <lolfield>lol"</lolfield>
+    <field>
+        <name>kolor</name>
+        <type>int</type>
+        <value>42</value>
+    </field>
+</object>
+
+<object>
+
+    <field>
+        <name>Armor</name>
+        <type>int</type>
+        <value>12</value>
+    </field>
+</object>
