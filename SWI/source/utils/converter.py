@@ -21,7 +21,10 @@ def build_fields_dictionary(fields_root):
             continue
 
         if field_type == 'int':
-            field_value = int(field_value)
+            try:
+                field_value = int(field_value)
+            except ValueError:
+                continue
 
         fields_dictionary[field_name] = field_value
     return fields_dictionary
